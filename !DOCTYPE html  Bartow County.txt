@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Bartow County Sheriff's Office SOP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+        header img {
+            width: 80px;
+            height: auto;
+        }
+        header h1 {
+            margin: 10px 0;
+            font-size: 2.5em;
+        }
+        nav {
+            background-color: #333;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            padding: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        .content {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 1000px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .content h2 {
+            font-size: 2em;
+            color: #333;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .content ul li {
+            padding: 5px 0;
+        }
+        .content ul li a {
+            color: #333;
+            text-decoration: none;
+        }
+        .content ul li a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="badge.png" alt="Sheriff's Office Badge">
+        <h1>Bartow County Sheriff's Office</h1>
+        <p>Standard Operating Procedures (SOP)</p>
+    </header>
+
+    <nav>
+        <a href="#section1">Policy 100</a>
+        <a href="#section2">Policy 101</a>
+        <a href="#section3">Policy 200</a>
+        <a href="#section4">Policy 300</a>
+        <a href="#section5">Policy 400</a>
+        <a href="#section6">Policy 500</a>
+        <a href="#section7">Policy 600</a>
+    </nav>
+
+    <div class="content">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#section1">Policy 100 - Statement of Purpose</a></li>
+            <ul>
+                <li><a href="#section1.1">100.1 Mission Statement</a></li>
+                <li><a href="#section1.2">100.2 Vision</a></li>
+                <li><a href="#section1.3">100.3 Core Values</a></li>
+            </ul>
+            <li><a href="#section2">Policy 101 - Code of Ethics</a></li>
+            <ul>
+                <li><a href="#section2.1">101.1 Performance of Duties</a></li>
+                <li><a href="#section2.2">101.2 Discretion</a></li>
+                <li><a href="#section2.3">101.3 Use of Force</a></li>
+                <li><a href="#section2.4">101.4 Confidentiality</a></li>
+                <li><a href="#section2.5">101.5 Integrity</a></li>
+            </ul>
+            <li><a href="#section3">Policy 200 - Structure & Responsibility</a></li>
+            <ul>
+                <li><a href="#section3.1">200.1 Purpose and Scope</a></li>
+                <li><a href="#section3.2">200.2 Chain of Command</a></li>
+                <li>High Command</li>
+                <li>Chief of Police</li>
+                <li>Asst Chief of Police</li>
+                <li>Chief of Special Operations</li>
+                <li><a href="#section3.3">Chief of Investigation</a></li>
+            </ul>
+            <li><a href="#section4">Policy 300 - Use of Force</a></li>
+            <ul>
+                <li><a href="#section4.1">300.1 Purpose and Scope</a></li>
+                <li><a href="#section4.2">300.4 Use of Force</a></li>
+            </ul>
+            <li><a href="#section5">Policy 400 - Personal Protection Equipment</a></li>
+            <li><a href="#section6">Policy 500 - Traffic Stops</a></li>
+            <li><a href="#section7">Policy 600 - Promotions</a></li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Bartow County Sheriff's Office - All Rights Reserved</p>
+    </footer>
+</body>
+</html>
